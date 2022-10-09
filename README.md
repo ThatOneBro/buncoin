@@ -1,6 +1,6 @@
 # BunCoin
 
-A cryptocurrency intended to demo the Bun runtime and ecosystem
+A cryptocurrency network made for the Bun ecosystem
 
 ## Project Brief
 
