@@ -12,5 +12,13 @@
   "[zig]": {
     "editor.tabSize": 4
   },
-  "cSpell.words": ["libsodium", "technicals"]
+  "cSpell.words": [
+    "cstring",
+    "generichash",
+    "keypair",
+    "libsodium",
+    "publickeybytes",
+    "secretkeybytes",
+    "technicals"
+  ]
 }
