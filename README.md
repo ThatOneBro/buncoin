@@ -6,7 +6,7 @@ A cryptocurrency intended to demo the Bun runtime and ecosystem
 
 I decided to work on this project in order to dust off the decaying knowledge about cryptography and decentralized networks I have gathered over the years as well as create the start of a bleeding edge showcase for the Bun runtime. It had been way too long since I had been able to really leverage my crypto knowledge in a meaningful way, and I knew that it could also push the boundaries for what Bun is currently capable of as well as demo how much better it can be than the aging Node.js environment.
 
-There is a lot missing from the current Bun runtime -- these are early days for the project -- but already Bun proves to be a very promising runtime for the future of highly performant and modern serverside (or serverless) JavaScript and TypeScript. Cryptocurrency networks are complicated and require a lot of optimizations to run efficiently, especially at scale, and that's why I picked this project to serve as a testament to the early functionality of Bun as well as a history of its future growth; one which will be easily identifiable as a phenomenal exhibition of performance and ergonomics alike, and one that **may** have some marginal utility as a cool demo at worst and **may** be a fun way to get people envolved in the Bun community at best.
+There is a lot missing from the current Bun runtime -- these are early days for the project -- but already Bun proves to be a very promising runtime for the future of highly performant and modern server-side (or serverless) JavaScript and TypeScript. Cryptocurrency networks are complicated and require a lot of optimizations to run efficiently, especially at scale, and that's why I picked this project to serve as a testament to the early functionality of Bun as well as a history of its future growth; one which will be easily identifiable as a phenomenal exhibition of performance and ergonomics alike, and one that **may** have some marginal utility as a cool demo at worst and **may** be a fun way to get people involved in the Bun community at best.
 
 ## Goals
 
@@ -44,5 +44,5 @@ Here are a few things that are planned to be done; this list is mostly for mysel
 - [ ] Create a project for BunCoin tasks
 - [ ] Create the basic loop of network consensus
 - [x] Create a todo list regarding BunCoin and what I need to work on
-- [ ] Add proper support for crosslinking
+- [ ] Remove linking hack to allow for proper linking across all OSes
 - [ ] Cross-compile libsodium for ease of installation?
