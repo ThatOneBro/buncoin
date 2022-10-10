@@ -2,7 +2,7 @@ import { dlopen, FFIType, suffix } from "bun:ffi";
 import { isValidBase64String, isValidHexString } from "../util";
 
 // TODO: Add more generalized way of linking to libsodium
-const path = `/usr/local/lib/libsodium.${suffix}`;
+const path = `libsodium.${suffix}`;
 
 let initialized = false;
 

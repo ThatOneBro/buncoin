@@ -44,5 +44,5 @@ Here are a few things that are planned to be done; this list is mostly for mysel
 - [ ] Create a project for BunCoin tasks
 - [ ] Create the basic loop of network consensus
 - [x] Create a todo list regarding BunCoin and what I need to work on
-- [ ] Remove linking hack to allow for proper linking across all OSes
+- [x] Remove linking hack to allow for proper linking across all OSes
 - [ ] Cross-compile libsodium for ease of installation?
