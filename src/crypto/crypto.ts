@@ -53,10 +53,13 @@ type ValidEncoding = Buffer | string;
 type InputEncoding = "buffer" | "utf-8" | "hex" | "base64";
 type OutputEncoding = "buffer" | "hex" | "base64";
 
+export const init = (): number => {
+  return lib.symbols.sodium_init();
+};
+
 const ensureInitialized = () => {
   if (!initialized) {
-    if (lib.symbols.sodium_init() === -1)
-      throw new Error("Unable to initialize sodium");
+    if (init() === -1) throw new Error("Unable to initialize sodium");
     initialized = true;
   }
 };

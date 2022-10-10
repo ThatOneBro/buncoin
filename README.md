@@ -1,6 +1,7 @@
-# BunCoin
+<h1 align=center>BunCoin</h1>
+<div align=center>A cryptocurrency network made for the Bun ecosystem</div>
 
-A cryptocurrency network made for the Bun ecosystem
+<br />
 
 ## Project Brief
 
