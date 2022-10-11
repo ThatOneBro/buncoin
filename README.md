@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="206" height="200" src="https://user-images.githubusercontent.com/1592008/195041166-69d63839-ec28-476e-ad90-957ea4ad28a9.png" alt="BunCoin logo, a smiling baozi on a gold coin" />
+  <img width="206" height="200" src="https://user-images.githubusercontent.com/1592008/195050900-3618bc9f-63ac-4d1d-9391-d7febd938b91.png" alt="BunCoin logo, a smiling baozi on a gold coin" />
 </p>
 <h1 align=center>BunCoin</h1>
 <div align=center>A cryptocurrency network made for the Bun ecosystem</div>
