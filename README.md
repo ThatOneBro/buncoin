@@ -1,3 +1,4 @@
+![buncoin-logo-1](https://user-images.githubusercontent.com/1592008/195040496-4fc234f3-077e-458e-b83b-51217acb5931.png)
 <h1 align=center>BunCoin</h1>
 <div align=center>A cryptocurrency network made for the Bun ecosystem</div>
 
