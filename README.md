@@ -1,4 +1,6 @@
-![buncoin-logo-1](https://user-images.githubusercontent.com/1592008/195040496-4fc234f3-077e-458e-b83b-51217acb5931.png)
+<p align="center">
+  <img width="206" height="200" src="https://user-images.githubusercontent.com/1592008/195041166-69d63839-ec28-476e-ad90-957ea4ad28a9.png" alt="BunCoin logo, a smiling baozi on a gold coin" />
+</p>
 <h1 align=center>BunCoin</h1>
 <div align=center>A cryptocurrency network made for the Bun ecosystem</div>
 
